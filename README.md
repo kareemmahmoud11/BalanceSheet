@@ -1,6 +1,7 @@
 #Financial Tracking Dashboard | Power BI
 
 📊 Financial Tracking Dashboard | Power BI
+
 An interactive Power BI dashboard designed to track and analyze core financial components — Assets, Liabilities, and Equity — over a 5-month period. This project provides valuable insights to support data-driven financial planning and risk mitigation.
 
 <img width="1436" height="802" alt="Screenshot 2025-07-13 122728" src="https://github.com/user-attachments/assets/0168e17f-0029-4f50-aba7-6483914d0608" />
